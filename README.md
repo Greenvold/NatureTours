@@ -6,4 +6,9 @@ It definately learned me how to apply advanced css selectors, flexobex and absol
 
 This project had the biggest impact on my CSS skills which I use on a daily basis now.
 
-Whole projects is coming from a perfect Udemy course found here `https://www.udemy.com/course/advanced-css-and-sass/`
+Whole projects is coming from a perfect Udemy course found here 
+
+`https://www.udemy.com/course/advanced-css-and-sass/`
+
+I have hosted this project on netlify. Page can be found here:
+`https://nature-guides-bruder.netlify.app/`

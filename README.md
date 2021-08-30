@@ -8,6 +8,6 @@
 
 - Whole projects is coming from a perfect Udemy course found [here](https://www.udemy.com/course/advanced-css-and-sass/)
 
-###Check it out
+### Check it out
 I have hosted this project on netlify. Page can be found here: 
 https://nature-guides-bruder.netlify.app/
